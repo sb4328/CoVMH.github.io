@@ -11,7 +11,11 @@ output:
 
 ## Motivation
 
+The COVID-19 pandemic has drastically affected access to care across the United States due to such factors as diversion of medical resources and personnel, reduced access to transportation, and fear of transmission of COVID-19 in healthcare facilities. In addition to  psychological stress from the pandemic, public health measures in place to reduce its spread may cause an increase in mental health needs. The U.S. Census Bureau, the CDC, and four additional federal agencies have conducted the **Household Pulse Survey** to measure social and economic effects of the COVID-19 pandemic. Among these data are indicators of reduced access to care and depression/anxiety symptoms. 
+
 ## Primary goals
+
+We propose to investigate whether there exists a correlation between reduced access to care and depression/anxiety symptoms during COVID-19 using the Household Pulse Survey data. We will compare reduction in access to care and mental health outcomes by age, gender, race, education and state.
 
 ## Secondary goals
 
